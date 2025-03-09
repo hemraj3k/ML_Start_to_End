@@ -1,0 +1,101 @@
+ID,Age,Gender,Salary,Purchased,City
+1,56,Male,33748,Yes,Los Angeles
+2,46,Female,43545,Yes,Los Angeles
+3,32,Female,96199,Yes,Chicago
+4,25,Female,64766,Yes,Houston
+5,38,Male,103530,No,Los Angeles
+6,56,Female,91087,No,Houston
+7,36,Male,98840,No,Los Angeles
+8,40,Male,84384,No,Houston
+9,28,Female,81005,No,Chicago
+10,28,Female,76576,No,Los Angeles
+11,41,Male,69353,Yes,Chicago
+12,53,Male,92003,No,Los Angeles
+13,57,Female,113211,Yes,Chicago
+14,41,Female,82733,Yes,Chicago
+15,20,Female,95318,No,Los Angeles
+16,39,Male,119474,Yes,Los Angeles
+17,19,Male,53664,No,Los Angeles
+18,41,Male,97172,Yes,New York
+19,47,Male,115616,No,Houston
+20,55,Male,56736,Yes,New York
+21,19,Male,30854,No,New York
+22,38,Female,68623,No,Chicago
+23,50,Male,37392,No,Los Angeles
+24,29,Male,85680,No,Houston
+25,39,Male,76717,No,Chicago
+26,42,Female,117092,Yes,New York
+27,44,Male,80859,Yes,Los Angeles
+28,59,Male,56309,Yes,Chicago
+29,45,Female,117455,No,Los Angeles
+30,33,Male,93734,Yes,Chicago
+31,32,Male,100467,No,Los Angeles
+32,20,Male,82662,No,New York
+33,54,Male,42688,Yes,Houston
+34,24,Male,55342,Yes,New York
+35,38,Female,67157,No,Houston
+36,26,Female,97863,Yes,Los Angeles
+37,56,Female,82083,No,Chicago
+38,35,Male,95733,No,New York
+39,21,Male,119045,No,Houston
+40,42,Male,64698,No,New York
+41,31,Female,110623,No,Houston
+42,26,Male,52671,Yes,New York
+43,43,Male,55184,Yes,Houston
+44,19,Female,72107,No,Houston
+45,37,Male,116202,No,Los Angeles
+46,45,Female,81663,Yes,Houston
+47,24,Female,45708,Yes,Los Angeles
+48,25,Female,79811,No,Houston
+49,52,Male,32811,Yes,Chicago
+50,31,Male,86250,No,Chicago
+51,34,Male,102082,Yes,Chicago
+52,53,Male,64754,No,Houston
+53,57,Male,41411,Yes,Los Angeles
+54,21,Male,32911,No,Los Angeles
+55,19,Male,97270,Yes,Houston
+56,23,Female,113763,Yes,Chicago
+57,59,Male,38680,No,Chicago
+58,21,Female,114896,Yes,Los Angeles
+59,46,Male,113879,No,Chicago
+60,35,Male,101295,Yes,New York
+61,43,Male,118614,No,Los Angeles
+62,51,Female,41111,Yes,Chicago
+63,27,Female,67504,No,Los Angeles
+64,53,Female,31802,Yes,New York
+65,31,Female,38155,No,Los Angeles
+66,48,Male,103656,Yes,Los Angeles
+67,32,Female,69384,No,Los Angeles
+68,25,Male,77254,No,Los Angeles
+69,31,Male,51918,No,New York
+70,40,Female,115981,Yes,Houston
+71,57,Female,90713,No,Los Angeles
+72,38,Female,60306,Yes,Los Angeles
+73,33,Female,46646,No,Chicago
+74,35,Female,76843,Yes,Los Angeles
+75,41,Female,46371,No,Chicago
+76,43,Female,107371,Yes,Houston
+77,42,Female,32049,Yes,New York
+78,58,Male,61616,No,New York
+79,46,Female,50932,Yes,Houston
+80,32,Female,59855,Yes,New York
+81,18,Male,91434,No,Houston
+82,42,Female,102694,Yes,Houston
+83,24,Male,73016,Yes,Houston
+84,26,Male,37400,Yes,New York
+85,41,Female,72642,No,Chicago
+86,18,Male,45151,Yes,Houston
+87,25,Male,81407,No,Los Angeles
+88,41,Male,96690,Yes,New York
+89,28,Male,34499,Yes,Houston
+90,34,Female,36295,Yes,Houston
+91,25,Male,89040,No,Los Angeles
+92,52,Female,42183,Yes,Chicago
+93,52,Male,59299,Yes,Chicago
+94,50,Male,42874,No,Chicago
+95,22,Male,62711,Yes,Houston
+96,59,Male,35539,No,Houston
+97,56,Female,83351,No,Houston
+98,58,Female,91267,Yes,New York
+99,45,Male,78354,No,Los Angeles
+100,24,Male,32557,Yes,Houston
